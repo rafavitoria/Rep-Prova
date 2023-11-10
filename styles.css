@@ -1,6 +1,6 @@
 body {
     align-items: center;
-    background-image: url(imagens/cores.avif);
+    background-image: url(cores.avif);
     display: flex;
     justify-content: center;
     flex-direction: column;
